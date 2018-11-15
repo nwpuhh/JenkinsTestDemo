@@ -9,7 +9,7 @@ public class SimpleClass {
 		SimpleClass sc = new SimpleClass();
 
 		System.out.println("The sum of 4+5 is " + sc.sum(4, 5));
-		System.out.println("A little change!")
+		System.out.println("A little change!");
 	}
 
 }
